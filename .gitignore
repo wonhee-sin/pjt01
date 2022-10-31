@@ -1,2 +1,7 @@
 # Project exclude paths
 /.gradle/
+
+# Created by . ignore support plgin
+
+.gradle
+.idea
